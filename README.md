@@ -1,5 +1,5 @@
 # SoundManager
-## easy management of game's musics anf SFXs
+## easy management of game's musics and SFXs
 
 ![mul83rry](https://github.com/mul83rry/SoundManager/blob/main/Sound%20Manager.PNG)
 

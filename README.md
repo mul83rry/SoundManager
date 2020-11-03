@@ -9,32 +9,38 @@
 auto play music if available
 ```
 
-**PlayMusic(index)**
+```javascript
+PlayMusic(index)
 ```
 play a music with selected index
-```
 
-**PlayMusic("sfx tag")**
+
+```javascript
+PlayMusic("sfx tag")
 ```
 play a music with selected tag
-```
 
-**PlaySfx("sfx tag", index)**
+
+```javascript
+PlaySfx("sfx tag", index)
 ```
 play sfx of selected tag at selected index
-```
 
-**PlaySfx("sfx tag)**
+
+```javascript
+PlaySfx("sfx tag)
 ```
 play a sfx with selected tag
-```
 
-**MuteMusic = true**
+
+```javascript
+MuteMusic = true
 ```
 mute musics
-```
 
-**MuteSfx = true**
+
+```javascript
+MuteSfx = true
 ```
 mute sfxs
-```
+
